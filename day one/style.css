@@ -1,0 +1,70 @@
+*{
+    /* padding: 10px; */
+    /* margin: 10px; */
+    /* box-sizing: content-box; */
+    font-family: Arial;
+}
+#one{
+    color: rgba(56,55,55);
+    margin: 20px;
+    box-sizing: border-box;
+    border: 0.6px solid rgb(205, 200, 200);
+}
+
+#box{
+    box-sizing: border-box;
+    background-color: rgb(57, 153, 226);
+    /* width: 100%; */
+    /* height: 40px; */
+    padding: 1px;
+    text-align: center;
+    word-spacing: 10px;
+    color:white;
+    font-family: Arial;
+    /* font-weight: 500; */
+}
+#two{
+    /* position: relative; */
+    color: rgba(56,55,55);
+    margin: 20px;
+    box-sizing: border-box;
+    border: 0.6px solid rgb(205, 200, 200);
+}
+#parent-image{
+    
+}
+
+#image{
+    /* position: absolute; */
+    /* margin: 40px; */
+    height: 300px;
+    width: 350px;
+    /* background-color: red; */
+    background-image: url(https://plus.unsplash.com/premium_photo-1666777247416-ee7a95235559?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZG9nfGVufDB8fDB8fHww);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+ul{
+    line-height: 40px;
+}
+#spas{
+    line-height: 50px;
+}
+#three{
+    color: rgba(56,55,55);
+
+    margin: 20px;
+    box-sizing: border-box;
+    border: 0.6px solid rgb(205, 200, 200);
+}
+#four{
+    /* height: 40px; */
+    margin: 20px;
+    box-sizing: border-box;
+    background-color: rgb(51, 50, 50);
+    color: white !important;
+    /* border: 0.6px solid rgb(205, 200, 200); */
+    text-align: center;
+    padding: 3px;
+}
