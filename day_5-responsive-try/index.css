@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Day_05</title>
+    <link rel="stylesheet" href="style.css">
+    <link
+  href="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/fonts/remixicon.css"
+  rel="stylesheet"
+/>
+</head>
+<body>
+    <div class="main">
+        <div class="nav">
+            <h2>Logo</h2>
+            <div class="menubar">
+                <p>Menu Bar</p>
+            </div>
+        </div>
+        <div class="part">
+            <div class="text">
+                <h1>Discover the <br>World's <span>Hidden</span> Wonders</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, reiciendis dolore veritatis ipsum expedita molestias odio ut voluptatum suscipit soluta magnam officiis non, molestiae ad delectus tempore minus deleniti voluptate!</p>
+                <div class="btn-d">
+                    <button>Plan Your Trip</button>
+                </div>
+            </div>
+            <div class="images">
+                <div class="img1 img"></div>
+                <div class="img2 img"></div>
+                <div class="img3 img"></div>
+            </div>
+            <div class="btn">
+            <button type="button">Plan Your Trip</button>
+        </div>
+        </div>
+        <div class="part-2">
+            <div class="up-con">
+                <h1>Top Destinations</h1>
+            <div class="down">
+                <h3>Popular</h3>
+                <div class="icon-1">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="64" height="64" fill="currentColor"><path d="M12 14L8 10H16L12 14Z"></path></svg>
+                </div>
+            </div>
+            <div class="more-tag">
+               <p><b>Popular</b></p>
+               <a href="">UGA</a>
+               <a href="">Bali</a>
+               <a href="">Colombo</a>
+               <a href="">Goa</a>
+               <a href="">Thailand</a>
+               <a href="">Malaysia</a>
+               <a href="">Barcelona</a>
+               <a href="">Africa</a>
+               <a href="">Asia</a>
+               <a href="">Europe</a>
+               
+            </div>
+            </div>
+            <div class="container">
+                <div class="card card1">
+                    <div class="img-i img-i1"></div>
+                    <h2>Golden Bridge, Be Ne Hills</h2>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+                <div class="card card2">
+                    <div class="img-i img-i1"></div>
+                    <h2>Golden Bridge, Be Ne Hills</h2>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+                <div class="card card3">
+                    <div class="img-i img-i1"></div>
+                    <h2>Golden Bridge, Be Ne Hills</h2>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+                <div class="card card4">
+                    <div class="img-i img-i1"></div>
+                    <h2>Golden Bridge, Be Ne Hills</h2>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+                <div class="card card5">
+                    <div class="img-i img-i1"></div>
+                    <h2>Golden Bridge, Be Ne Hills</h2>
+                    <p>Lorem ipsum dolor sit amet.</p>
+                </div>
+            </div>
+            <button type="button">Explore All Destinations</button> 
+        </div>
+        <div class="part-3">
+            <h1>Latest Stories</h1>
+            <div class="stories">
+                <div class="left">
+                    <div class="img">
+                    </div>
+                    <p class="p1">Lorem ipsum, dolor sit amet consectetur adipisicing.</p>
+                    <h2> Los Angolos food & drink guide: 10 thingsto try in Los Angolos, California </h2>
+                    <p class="p2">Date</p>
+                    <p class="p3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit aspernatur quas rem, quisquam repudiandae eius provident officia deleniti est dignissimos.</p>
+                </div>
+                <div class="right">
+                        <div class="post">
+                            <div class="img">
+                            </div>
+                            <div class="text">
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                                <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex expedita hic unde dolore fugit vitae?</h2>
+                                <p>Date</p>
+                            </div>
+                        </div>
+                        <div class="post">
+                            <div class="img">
+                            </div>
+                            <div class="text">
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                                <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex expedita hic unde dolore fugit vitae?</h2>
+                                <p>Date</p>
+                            </div>
+                        </div>
+                        <div class="post">
+                            <div class="img">
+                            </div>
+                            <div class="text">
+                                <p>Lorem ipsum dolor sit, amet consectetur adipisicing.</p>
+                                <h2>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex expedita hic unde dolore fugit vitae?</h2>
+                                <p>Date</p>
+                            </div>
+                        </div>
+                        <div class="btn-bot">
+                            <button type="button">Head More Article</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
